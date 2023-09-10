@@ -1,0 +1,6 @@
+framework module swift_memorys {
+  umbrella header "swift-memorys-umbrella.h"
+
+  export *
+  module * { export * }
+}

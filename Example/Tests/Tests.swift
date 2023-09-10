@@ -1,5 +1,4 @@
 import XCTest
-import swift-memorys
 
 class Tests: XCTestCase {
     

@@ -1,0 +1,6 @@
+framework module Pods_swift_memorys_Tests {
+  umbrella header "Pods-swift-memorys_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
