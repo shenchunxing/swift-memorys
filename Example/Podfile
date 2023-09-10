@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'swift-memorys_Example' do
+  pod 'swift-memorys', :path => '../'
+
+  target 'swift-memorys_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
